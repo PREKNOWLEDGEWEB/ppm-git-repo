@@ -1,1 +1,0 @@
-latest = .png without .png
